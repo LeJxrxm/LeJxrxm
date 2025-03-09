@@ -1,4 +1,4 @@
-Bienvenue sur mon profil GitHub ! Je suis Jérémy, développeur freelance passionné par la création de solutions logicielles innovantes. Avec une expérience diversifiée dans le développement web et mobile, je m'efforce de fournir des solutions de qualité qui répondent aux besoins de mes clients.
+Développeur freelance passionné par la création de solutions logicielles innovantes.
 
 ## Compétences 🚀
 
