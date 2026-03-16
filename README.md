@@ -2,9 +2,9 @@ Développeur freelance passionné par la création de solutions logicielles inno
 
 ## Compétences 🚀
 
-- **Langages de Programmation :** PHP (CakePHP / Symfony), Javascript, SQL, HTML/CSS
+- **Langages de Programmation :** PHP (Symfony / CakePHP), Javascript/Typescript, SQL, HTML/CSS
 - **Base de Données :** MySQL, MariaDB
-- **Outils et Frameworks :** CakePHP, Symfony, VueJS
+- **Outils et Frameworks :** Symfony, Nuxt
 - **Contrôle de Version :** Git, GitHub, Bitbucket
 
 ## Services 🌐
