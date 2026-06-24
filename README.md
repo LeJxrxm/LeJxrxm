@@ -1,4 +1,4 @@
-Développeur passionné, je me crée des problèmes compliqués pour en résoudre de très simples.
+Développeur passionné, je crée des problèmes compliqués pour en résoudre de très simples.
 
 ## Compétences 🚀
 
